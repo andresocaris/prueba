@@ -3,6 +3,6 @@ package primerproyecto;
 public class A {
 	int x = 2;
 	public static void main(String[] parametro) {
-        System.out.println("Hola Andres");
+        System.out.println("Hola Andres Ocaris");
     }
 }
